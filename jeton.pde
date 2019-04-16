@@ -1,1 +1,0 @@
-class jeton extends plateau;
